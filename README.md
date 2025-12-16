@@ -5,13 +5,7 @@
 - **[Interactive Dashboard](https://public.tableau.com/views/TheLookerE-commerceDataAnalysis/TheLookerEcommerceDataAnalysis1)** ← Tableau Dashboard
 
 ## 🎯 Project Overview
-End-to-end analysis of The Look's synthetic e-commerce data to optimize marketing strategies and identify high-value customer segments. This project demonstrates data cleaning, statistical testing, visualization, and business insight generation.
-
-## 📊 Key Insights
-- **Search dominates acquisition** (70.1% of customers)
-- **Facebook leads in quality** (25.6% completion rate)
-- **No statistical difference** between channels (p=0.133)
-- **Systemic optimization opportunity** in checkout process
+Aanalysis of The Look's synthetic e-commerce data to optimize marketing strategies and identify high-value customer segments. This project demonstrates data cleaning, statistical testing, visualization, and business insight generation.
 
 ## 🛠️ Tools & Skills
 - **Python:** pandas, SciPy, matplotlib (data processing & statistical testing)
@@ -27,7 +21,7 @@ End-to-end analysis of The Look's synthetic e-commerce data to optimize marketin
 ## 📁 Files in This Repository
 - `analysis.ipynb` - Complete Jupyter notebook with markdown documentation
 - `tableau-link.txt` - Dashboard URL for easy access
-- `requirements.txt` - Python dependencies (optional)
+
 
 ## 👤 Analyst
 Ariku Charles  
