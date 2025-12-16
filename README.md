@@ -1,7 +1,7 @@
 # 📊 The Look E-commerce Data Analysis
 
 ## 🔗 Quick Access
-- **[View Complete Analysis](analysis.ipynb)** ← Open Jupyter Notebook
+- **[View Cleaning, processing,Analysis, interpretation, reporting](analysis.ipynb)** ← Open Jupyter Notebook
 - **[Interactive Dashboard](https://public.tableau.com/views/TheLookerE-commerceDataAnalysis/TheLookerEcommerceDataAnalysis1)** ← Tableau Dashboard
 
 ## 🎯 Project Overview
